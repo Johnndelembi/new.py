@@ -1,5 +1,4 @@
 import streamlit as st
-from camera_input_live import camera_input_live
 from streamlit_chat import message
 
 
