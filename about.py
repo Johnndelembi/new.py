@@ -6,7 +6,7 @@ def app():
         st.title(":blue[About Us]")
 
     st.subheader("A deep dive into :blue[RADOKI STATISTICS SOLUTIONS]")
-    st.markdown("""RADOKI STATISTICS SOLUTIONS, founded [year], is a dynamic team of seasoned statisticians, data scientists, and industry experts. 
+    st.markdown("""RADOKI STATISTICS SOLUTIONS, founded 2024, is a dynamic team of seasoned statisticians, data scientists, and industry experts. 
         With a passion for unraveling the complexities of data, we have successfully partnered with diverse businesses to enhance decision-making processes, drive efficiency, and unlock new opportunities. 
         Our commitment to excellence, coupled with a client-focused approach, sets us apart as a trusted partner for organizations seeking to harness the full potential of their data.
     """)
