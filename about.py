@@ -1,7 +1,4 @@
 import streamlit as st
-from streamlit_chat import message
-
-
 def app():
     header1, header2, header3 = st.columns([2,2,3])
     with header2:
