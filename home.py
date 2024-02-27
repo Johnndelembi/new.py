@@ -53,6 +53,17 @@ def app():
     st.image("assignment.PNG")
     col6, col7 = st.columns(2, gap="small")
     with col6:
+        st.markdown("""
+        Feeling overwhelmed by statistics homework? We understand – college can be hectic! We offer "Statistics Assignment Help" to ease your workload and ensure top-notch support:
+
+        **Experienced tutors:** Our experts can help you with statistics, programming, assignments, homework, and projects. They're familiar with various statistical tools like SPSS, Python, R, Excel & STATA.
+        **Focus on learning, not deadlines:** 
+        - Free up your time to truly understand the concepts. We'll handle the assignments, allowing you to focus on other areas.
+        **Stay ahead of the curve:** 
+        - Our tutors are well-versed in the latest data science, big data, and machine learning algorithms used in college curriculums.
+        Get the support you deserve and achieve academic success!""")
+
+     with col7:    
         st.markdown("""We offer statistics assignment help, ranging from          
                      Organizing and graphing data.
                      Probability.
