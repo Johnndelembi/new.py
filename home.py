@@ -40,6 +40,12 @@ def app():
         st.write(" ### ")
         st.write(" ### ")
         st.subheader("STATISTICS SOFTWARES TRAINING FOR DATA ANALYSIS")
+        st.markdown("""
+        Did you know that Data analysis is a very demanded career nowadays?
+        Are you aware of how to practically apply the data analysis knowledge in real life practices? 
+        If not then why don't you take this time to learn how to analyze data with the help of the appropriate analysis softwares. 
+        Register into our training program today for that and many more insights on the extent of data analysis, 
+        feel free to call for more details concerning with the data analysis training.""")
         st.video("6.mp4")
         st.link_button("Sign Up", "https://forms.gle/Xnu8tWWAzJXFVJeb8", help="Are you interested to learn the ways of data analysis and related software packages? Sign Up today and get the best guidance from our qualified tutors")
         st.write(" ### ")
