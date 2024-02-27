@@ -47,7 +47,7 @@ def app():
         Register into our training program today for that and many more insights on the extent of data analysis, 
         feel free to call for more details concerning with the data analysis training.""")
         st.video("6.mp4")
-        st.link_button("Sign Up", "https://forms.gle/Xnu8tWWAzJXFVJeb8", help="Are you interested to learn the ways of data analysis and related software packages? Sign Up today and get the best guidance from our qualified tutors")
+        st.link_button("> Registration", "https://forms.gle/Xnu8tWWAzJXFVJeb8", help="Are you interested to learn the ways of data analysis and related software packages? Sign Up today and get the best guidance from our qualified tutors")
         st.write(" ### ")
      
     st.image("assignment.PNG")
