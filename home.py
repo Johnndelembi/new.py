@@ -73,7 +73,6 @@ def app():
                      Hypothesis testing about mean and proportion.
                      Regression analysis, inferential analysis and related statisitcs topics.
                     """)
-    with col7:
         st.subheader(":blue[Statistics Assignments Help from Statistics Experts]")
         st.link_button("Upload Your Assignment", "https://forms.gle/kuExVCZeAXtCtSHb7")    
 
