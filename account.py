@@ -63,7 +63,7 @@ def app():
                 """)  
 
     
-    st.video("6.mp4")
+    st.video("10.mp4")
     col1, col2, col3 = st.columns([1,3,1]) 
     with col2:
         st.link_button("**Ready to master the skills of data analysis? Enroll today**", "https://docs.google.com/forms/d/e/1FAIpQLSeY_gQuvNCBiklGcTvOb45A3k1PwqMauDJx147dqrxIt1gk6Q/viewform?usp=sharing", help="Click to access the registration form and register yourselt into our statistical softwares training program")
