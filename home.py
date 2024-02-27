@@ -63,16 +63,17 @@ def app():
         - Our tutors are well-versed in the latest data science, big data, and machine learning algorithms used in college curriculums.
         Get the support you deserve and achieve academic success!""")
 
-      with col7:    
-         st.markdown("""We offer statistics assignment help, ranging from          
-                     Organizing and graphing data.
-                     Probability.
-                     Numerical descriptive measures.
-                     Continuos random variables and distributions.
-                     Sampling distribution.
-                     Hypothesis testing about mean and proportion.
-                     Regression analysis, inferential analysis and related statisitcs topics.
-                    """)
+    with col7:    
+        st.markdown("""
+        We offer statistics assignment help, ranging from          
+        Organizing and graphing data.
+        Probability.
+        Numerical descriptive measures.
+        Continuos random variables and distributions.
+        Sampling distribution.
+        Hypothesis testing about mean and proportion.
+        Regression analysis, inferential analysis and related statisitcs topics.
+        """)
         st.subheader(":blue[Statistics Assignments Help from Statistics Experts]")
         st.link_button("Upload Your Assignment", "https://forms.gle/kuExVCZeAXtCtSHb7")    
 
