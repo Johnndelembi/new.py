@@ -47,7 +47,7 @@ def app():
     col4, col5, col6 = st.columns([1,4,1])
     with col5:
         st.subheader("Raymond D. Kishiwa | Founder & CEO")
-        st.image("9.PNG", width=450)
+        st.image("ray.png")
         st.markdown("""
                 B.A in Statistics UDSM Graduate.  
                 - Hands on experience in the field of Research, Data collection and analysis
@@ -57,7 +57,7 @@ def app():
 
 
         st.subheader("John Ndelembi | Junior Data analyst ")
-        st.image("9.PNG", width=450)
+        st.image("john.png")
         st.markdown("""
                 B.A in Statistics | University of Dar es Salaaam
                 - Hands on experience in the field of data science.
