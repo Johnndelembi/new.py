@@ -63,8 +63,8 @@ def app():
         - Our tutors are well-versed in the latest data science, big data, and machine learning algorithms used in college curriculums.
         Get the support you deserve and achieve academic success!""")
 
-     with col7:    
-        st.markdown("""We offer statistics assignment help, ranging from          
+      with col7:    
+         st.markdown("""We offer statistics assignment help, ranging from          
                      Organizing and graphing data.
                      Probability.
                      Numerical descriptive measures.
