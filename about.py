@@ -10,7 +10,7 @@ def app():
         Our commitment to excellence, coupled with a client-focused approach, sets us apart as a trusted partner for organizations seeking to harness the full potential of their data.
     """)
     
-    st.image("mvv.PNG")
+    st.image("mvv.png")
     col1, col2, col3 = st.columns(3)
     with col1:
         container = st.container(border=True)
