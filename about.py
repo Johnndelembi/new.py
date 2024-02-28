@@ -15,7 +15,7 @@ def app():
     with col1:
         container = st.container(border=True)
         container.subheader(":blue[Our Mission]")
-        container.markdown("""At RADOKI STATISTICS SOLUTIONS, our mission is to empower organizations through innovative statistical solutions. 
+        container.markdown("""At RSS, our mission is to empower organizations through innovative statistical solutions. 
                         We are committed to unraveling the potential within data, providing clients with actionable insights that drive informed decision-making. 
                         By blending cutting-edge statistical methodologies with a client-centric approach, we aim to be the catalyst for transformative change in the way businesses leverage data.
                         in such we believe we can bring about change and development in institutions       
@@ -23,7 +23,7 @@ def app():
     with col2:
         container = st.container(border=True)
         container.subheader(":blue[Our Vision]")
-        container.markdown("""Our vision at RADOKI is to be a global leader in statistical analysis, recognized for excellence in transforming complex data into clear, strategic insights. 
+        container.markdown("""Our vision at RSS is to be a leading organization in statistical analysis and data management in Tanzania, recognized for excellence in transforming complex data into clear, strategic insights. 
                         We envision a future where businesses, regardless of size or industry, harness the power of data to achieve unparalleled success. 
                         Through continuous innovation and a passion for problem-solving, we strive to redefine the landscape of data-driven decision-making.
                         while making the world a better place by providing data oriented solutions.   
