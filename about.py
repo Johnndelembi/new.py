@@ -56,7 +56,7 @@ def app():
         st.link_button("Read More", "")
 
 
-        st.subheader("John Ndelembi | Junior Data analyst ")
+        st.subheader("John Ndelembi | Data analyst ")
         st.image("9.png", width=450)
         st.markdown("""
                 B.A in Statistics | University of Dar es Salaaam
