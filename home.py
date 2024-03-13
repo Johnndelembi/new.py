@@ -18,7 +18,8 @@ def app():
     
     if st.button("Read More"):
         st.write_stream(stream_data)
-        st.image("process.PNG")    
+    
+    st.image("process.PNG")    
 
     with st.expander("**OUR SERVICES**"):
         st.video("7.mp4")    
@@ -44,32 +45,32 @@ def app():
         st.link_button("Sign Up", "https://forms.gle/Xnu8tWWAzJXFVJeb8", help="Are you interested to learn the ways of data analysis and related software packages? Sign Up today and get the best guidance from our qualified tutors")
         st.write(" ### ")
      
-    st.image("assignment.PNG")
-    col6, col7 = st.columns(2, gap="small")
-    with col6:
-        st.markdown("""
-        Feeling overwhelmed by statistics homework? We understand – college can be hectic! We offer "Statistics Assignment Help" to ease your workload and ensure top-notch support:
+    #st.image("assignment.PNG")
+    #col6, col7 = st.columns(2, gap="small")
+    #with col6:
+       # st.markdown("""
+        #Feeling overwhelmed by statistics homework? We understand – college can be hectic! We offer "Statistics Assignment Help" to ease your workload and ensure top-notch support:
 
-        **Experienced tutors:** Our experts can help you with statistics, programming, assignments, homework, and projects. They're familiar with various statistical tools like SPSS, Python, R, Excel & STATA.
-        **Focus on learning, not deadlines:** 
-        - Free up your time to truly understand the concepts. We'll handle the assignments, allowing you to focus on other areas.
-        **Stay ahead of the curve:** 
-        - Our tutors are well-versed in the latest data science, big data, and machine learning algorithms used in college curriculums.
-        Get the support you deserve and achieve academic success!""")
+       # **Experienced tutors:** Our experts can help you with statistics, programming, assignments, homework, and projects. They're familiar with various statistical tools like SPSS, Python, R, Excel & STATA.
+        #**Focus on learning, not deadlines:** 
+        #- Free up your time to truly understand the concepts. We'll handle the assignments, allowing you to focus on other areas.
+        #**Stay ahead of the curve:** 
+       # - Our tutors are well-versed in the latest data science, big data, and machine learning algorithms used in college curriculums.
+        #Get the support you deserve and achieve academic success!""")
 
-    with col7:    
-        st.markdown("""
-        We offer statistics assignment help, ranging from          
-        Organizing and graphing data.
-        Probability.
-        Numerical descriptive measures.
-        Continuos random variables and distributions.
-        Sampling distribution.
-        Hypothesis testing about mean and proportion.
-        Regression analysis, inferential analysis and related statisitcs topics.
-        """)
-        st.subheader(":blue[Statistics Assignments Help from Statistics Experts]")
-        st.link_button("Upload Your Assignment", "https://forms.gle/kuExVCZeAXtCtSHb7")    
+    #with col7:    
+        3#st.markdown("""
+        #We offer statistics assignment help, ranging from          
+        #Organizing and graphing data.
+        #Probability.
+        #Numerical descriptive measures.
+        #Continuos random variables and distributions.
+        #Sampling distribution.
+        #Hypothesis testing about mean and proportion.
+        #Regression analysis, inferential analysis and related statisitcs topics.
+        #""")
+        #st.subheader(":blue[Statistics Assignments Help from Statistics Experts]")
+        #st.link_button("Upload Your Assignment", "https://forms.gle/kuExVCZeAXtCtSHb7")    
 
     
     st.write(" ### ")    
