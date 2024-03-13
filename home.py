@@ -19,7 +19,7 @@ def app():
     if st.button("Read More"):
         st.write_stream(stream_data)
 
-    st.subheader(":blue:THE DATA ANALYSIS PROCESS")
+    st.subheader(":blue[THE DATA ANALYSIS PROCESS]")
     st.image("process.PNG")    
 
     with st.expander("**OUR SERVICES**"):
