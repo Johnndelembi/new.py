@@ -61,9 +61,10 @@ def app():
         st.markdown("""
                 B.A in Statistics | University of Dar es Salaaam
                 - Hands on experience in the field of data science.
-                - Well versed around Python, R, STATA and Excell for data science         
+                - Well versed around Python, R, STATA and Excell for data science
+                - Web developer at Py.Hub
                 """)
-        st.link_button("Read More", "https://sdddbvbhjrnf.streamlit.app/")
+        st.link_button("Read More", "https://johnndelembi.streamlit.app/")
 
     st.markdown("""Meet the minds behind RADOKI STATISTICS SOLUTIONS, a team dedicated to transforming raw data into strategic insights. 
                 Our collective experience, passion for innovation, and commitment to excellence drive the success of our statistical solutions.""")    
