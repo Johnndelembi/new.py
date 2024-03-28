@@ -7,7 +7,7 @@ def app():
     st.write("""At RADOKI STATISTICS SOLUTIONS, we bring data to life. Specializing in cutting-edge statistical analysis, predictive modeling, and data-driven insights, we empower businesses to make informed decisions.
     We aim to provide comprehensive support and expertise where you need in research proposal and dissertation writing, curriculum vitae creation, 
     data collection and analysis, training, concept note writing, graphic design, and coaching.""")
-    st.image("2.jpg")
+    st.video("RADOKI PLUS.mp4")
      
     Read_More = """ Our expert team harnesses the power of data to uncover patterns, trends, and opportunities that drive success. From comprehensive data analytics to bespoke statistical solutions, we tailor our expertise to meet your unique needs. Elevate your decision-making process with RADOKI and transform raw data into actionable intelligence. Discover the potential within your data – because every number tells a story, and we're here to help you interpret it.
      """
