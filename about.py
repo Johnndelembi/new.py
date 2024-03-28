@@ -51,7 +51,7 @@ def app():
         st.markdown("""
                 B.A in Statistics UDSM Graduate.  
                 - Hands on experience in the field of Research, Data collection and analysis
-                - Well versed around SPSS, STATA and Excell.
+                - Well versed around Python, SPSS, STATA, R and Excell.
                 """)
         st.link_button("Read More", "")
 
