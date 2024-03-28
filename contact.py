@@ -10,7 +10,7 @@ def app():
     
     st.write("###")
     st.subheader(" Email 📧 ")
-    st.markdown("General Enquiries: raymondkishiwa47@gmail.com")
+    st.markdown("General Enquiries: radokistatisticssolutions@gmail.com")
     st.markdown("Client Support: williamjohnie61@gmail.com")
 
     st.write("###")
