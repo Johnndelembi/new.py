@@ -92,7 +92,7 @@ def app():
         st.subheader("Contacts") 
         st.markdown("+255 753 093 786")
         st.markdown("+255 625 232 734") 
-        st.markdown("Email: raymondkishiwa47@gmail.com")
+        st.markdown("Email: radokistatisticssolutions@gmail.com")
         st.markdown("Ubungo, Dar es Salaam")
     
     with footer7:
