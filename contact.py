@@ -38,7 +38,7 @@ def app():
             with st.spinner("Sending..."):
                 time.sleep(3)
                 st.success("Sent and Received successfull")        
-        st.caption("***You can email us directly at raymondkishiwa47@gmail.com***")
+        st.caption("***You can email us directly at radokistatisticssolutions@gmail.com***")
 
     #---------FOOTER--------
     st.write(" ### ")    
