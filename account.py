@@ -26,10 +26,12 @@ def app():
         container = st.container(border=True)
         container.subheader(":blue[DESIGNING]")
         container.markdown("""
-                - DIGITAL RESUME/CV
-                - GRAPHIC DESIGN
+                - DATA COLLECTION DESIGNS
+                - TRAINING MATERIAL DESIGNS
+                - DIGITAL RESUME/CV & GRAPHIC DESIGN
+                - BRAND DESIGNS
                 - COVER LETTER
-                - WEB APPS DESIGN AND DEVELOPMENT                                 
+                - UI/UX DESIGNS
                 """)
     with service3:
         container = st.container(border=True)
