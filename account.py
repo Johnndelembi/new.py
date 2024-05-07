@@ -18,7 +18,9 @@ def app():
                 - DESSERTATION
                 - CONCEPT NOTE
                 - REPORT
-                - ASSIGNMENT                     
+                - ASSIGNMENT
+                - PROJECT WRITTING
+                - BUSINESS PLAN
                 """) 
     with service2:
         container = st.container(border=True)
@@ -51,6 +53,13 @@ def app():
     with service5:
         container = st.container(border=True)
         container.subheader(":blue[COACHING]")
+        container.markdown("""
+                        - STATISTICAL ANALYSIS COACHING
+                        - CONSULTATION COACHING
+                        - SOFTWARE TRAINING
+                        - PROJECT MANAGEMENT COACHING
+                        - INTERPRETATION COACHING
+                        """)
 
     with service6:
         container = st.container(border=True)
