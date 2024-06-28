@@ -57,7 +57,7 @@ def app():
 
 
         st.subheader("John Ndelembi | Data analyst ")
-        st.image("IMG_7119.JPG", width=450)
+        st.image("mimi.png")
         st.markdown("""
                 B.A in Statistics | University of Dar es Salaaam
                 - Hands on experience in the field of data science.
