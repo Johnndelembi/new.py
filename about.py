@@ -64,7 +64,7 @@ def app():
                 - Well versed around Python, R, STATA and Excell for data science
                 - Web developer at Py.Hub
                 """)
-        st.link_button("Read More", "https://johnndelembi.streamlit.app/")
+        st.link_button("Read More", "https://earnest-puppy-53aea3.netlify.app")
 
     st.markdown("""Meet the minds behind RADOKI STATISTICS SOLUTIONS, a team dedicated to transforming raw data into strategic insights. 
                 Our collective experience, passion for innovation, and commitment to excellence drive the success of our statistical solutions.""")    
